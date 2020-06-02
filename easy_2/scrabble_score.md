@@ -1,10 +1,8 @@
-Ruby Challenges > Easy 2
-```ruby
+##### Ruby Challenges > Easy 2
 
-```
+---
 
-Scrabble Score
---------------
+## Scrabble Score
 
 **Problem:**
 
@@ -20,10 +18,9 @@ Write a program that, given a word, computes the scrabble score for that word.
 * J, X                         = 8
 * Q, Z                         = 10
 
-```ruby
-```
+---
 
-**Examples/Test Cases:**
+**Examples / Test Cases:**
 
 "cabbage" should be scored as worth 14 points:
 
@@ -42,7 +39,7 @@ And to total:
 
 ---
 
-**Data Structures:**
+**Data Structure:**
 
 **_Inputs_**
 
@@ -70,7 +67,7 @@ Iterate through the input string and use a hash to retrieve the value associated
   * add the value to the word score
 * output the word score
 
-
+---
 
 **Code:**
 
